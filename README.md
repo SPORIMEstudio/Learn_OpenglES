@@ -47,3 +47,8 @@ Or download the ZIP from GitHub and extract it.
 (or use an emulator that supports OpenGL ES 3.0)
 - Press `Run ▶`
 - The app will build and launch automatically
+
+
+<div align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg" />
+</div>
