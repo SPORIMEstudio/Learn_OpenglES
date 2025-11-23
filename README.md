@@ -23,8 +23,32 @@ This project helps me learn and test different graphics programming techniques l
 
 ## 🚀 How to Use
 
-> ⚙️ **Note:** This project is just for my personal learning.  
-> Clone or fork it only if you’re experimenting with OpenGL ES too.
+> [!NOTE]
+> This project is for personal learning only.
+> Clone or fork it only if you want to experiment with OpenGL ES.
+
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/SPORIMEstudio/Learn_OpenglES.git
+```
+Or download the ZIP from GitHub and extract it.
+
+2️⃣ Open in Android Studio
+
+- Open Android Studio
+- Click `File` → `Open`
+- Select the cloned project folder
+- Let Android Studio download  Gradle + dependencies
+
+3️⃣ Run the Project
+
+- Connect your Android device
+(or use an emulator that supports OpenGL ES 3.0)
+- Press `Run ▶`
+- The app will build and launch automatically
+
+
+<div align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg" />
+</div>
